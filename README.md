@@ -15,7 +15,7 @@ Sistema de gestión de noticias desarrollado con Laravel y Livewire que permite 
 
 ## Proyecto Desplegado
 
-Puedes ver la versión en vivo de este proyecto en: [https://news.jjsn.com](https://news.jjsn.com)
+Puedes ver la versión en vivo de este proyecto en: [https://news.jjsn.es](https://news.jjsn.es)
 
 ## Modelos
 
