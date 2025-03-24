@@ -69,7 +69,7 @@
 	<header class="header-top bg-grey justify-content-center">
 		<nav class="navbar navbar-expand-lg navigation">
 			<div class="container">
-				<a class="navbar-brand d-lg-none" href="index.html"><img src="{{ asset('templates/news/images/logo.png') }}" alt="" class="img-fluid"></a>
+				<a class="navbar-brand d-lg-none" href="{{ route('news') }}"><img src="{{ asset('templates/news/images/logo.png') }}" alt="" class="img-fluid"></a>
 
 				<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarContent"
 					aria-controls="navbarContent" aria-expanded="false" aria-label="Toggle navigation">
